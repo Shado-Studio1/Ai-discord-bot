@@ -1,4 +1,4 @@
-# 🌌 Project Name / API Gateway
+# 🌌 Project Ai / API Gateway
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Gemini](https://img.shields.io/badge/AI-Gemini%202.5-8E44AD.svg)](https://deepmind.google/technologies/gemini/)
