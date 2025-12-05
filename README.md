@@ -2,6 +2,18 @@
 
 # ⚡ GEMINI INTELLIGENT ASSISTANT
 ### Enterprise-Grade Discord Bot Solution
+```text
+  ░██████                                   ░██                 ░██████                             ░██           ░██
+ ░██   ░██                                  ░██                ░██   ░██                                             
+░██         ░███████   ░███████   ░████████ ░██  ░███████     ░██         ░███████  ░█████████████  ░██░████████  ░██
+░██  █████ ░██    ░██ ░██    ░██ ░██    ░██ ░██ ░██    ░██    ░██  █████ ░██    ░██ ░██   ░██   ░██ ░██░██    ░██ ░██
+░██     ██ ░██    ░██ ░██    ░██ ░██    ░██ ░██ ░█████████    ░██     ██ ░█████████ ░██   ░██   ░██ ░██░██    ░██ ░██
+ ░██  ░███ ░██    ░██ ░██    ░██ ░██   ░███ ░██ ░██            ░██  ░███ ░██        ░██   ░██   ░██ ░██░██    ░██ ░██
+  ░█████░█  ░███████   ░███████   ░█████░██ ░██  ░███████       ░█████░█  ░███████  ░██   ░██   ░██ ░██░██    ░██ ░██
+                                        ░██                                                                          
+                                  ░███████                                                                           
+                                                                                                                     
+```
 
 ![Status](https://img.shields.io/badge/Status-Operational-success?style=for-the-badge&logo=statuspage)
 ![Version](https://img.shields.io/badge/Release-v3.0.0_Stable-blue?style=for-the-badge&logo=github)
