@@ -1,0 +1,35 @@
+` 
+🔹 gemini-2.5-flash
+🔹 gemini-2.5-pro      
+🔹 gemini-2.0-flash-exp
+🔹 gemini-2.0-flash
+🔹 gemini-2.0-flash-001
+🔹 gemini-2.0-flash-lite-001
+🔹 gemini-2.0-flash-lite
+🔹 gemini-2.0-flash-lite-preview-02-05
+🔹 gemini-2.0-flash-lite-preview
+🔹 gemini-2.0-pro-exp
+🔹 gemini-2.0-pro-exp-02-05
+🔹 gemini-exp-1206
+🔹 gemini-2.5-flash-preview-tts
+🔹 gemini-2.5-pro-preview-tts
+🔹 gemma-3-1b-it
+🔹 gemma-3-4b-it
+🔹 gemma-3-12b-it
+🔹 gemma-3-27b-it
+🔹 gemma-3n-e4b-it
+🔹 gemma-3n-e2b-it
+🔹 gemini-flash-latest
+🔹 gemini-flash-lite-latest
+🔹 gemini-pro-latest
+🔹 gemini-2.5-flash-lite
+🔹 gemini-2.5-flash-image-preview
+🔹 gemini-2.5-flash-image
+🔹 gemini-2.5-flash-preview-09-2025
+🔹 gemini-2.5-flash-lite-preview-09-2025
+🔹 gemini-3-pro-preview
+🔹 gemini-3-pro-image-preview
+🔹 nano-banana-pro-preview
+🔹 gemini-robotics-er-1.5-preview
+🔹 gemini-2.5-computer-use-preview-10-2025
+`
